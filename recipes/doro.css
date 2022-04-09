@@ -1,0 +1,51 @@
+h1
+{
+    color: green;
+    font-size: 60px;
+    background-color: honeydew;
+}
+
+img
+{
+    width: 600px; height: auto;
+}
+
+.first
+{
+    color: green;
+    font-family:Ubuntu,'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.Ingredients
+{
+    color:chocolate;
+    font-family:Ubuntu,'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.Steps
+{
+    color:chocolate;
+    font-family:Ubuntu,'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+h3
+{
+    font-size: 30px;
+}
+
+p
+{
+    font-size: 25px;
+}
+
+ul
+{
+    font-size: 25px;
+}
+
+ol
+{
+    font-size: 25px;
+}
